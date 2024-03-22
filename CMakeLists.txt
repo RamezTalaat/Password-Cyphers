@@ -3,4 +3,4 @@ project(Cyphers)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Cyphers main.cpp)
+add_executable(Cyphers src/main.cpp src/utils.cpp)
