@@ -1,5 +1,5 @@
 # Password-Cyphers
-This project shows an example of random and caesar cypher encryption in C++
+This project serves as an illustration of encryption using both random and Caesar cipher methods in C++
 
 ## Getting Started
 1. Clone the repository
